@@ -1,0 +1,5 @@
+- insert:
+    - id: superpowers-dsh-skills
+      name: ./skills.js
+    - id: superpowers-dsh-bootstrap
+      name: ./bootstrap.js
